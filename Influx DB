@@ -1,0 +1,22 @@
+Deploy key:
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBDMeciN3Di09zb3W3LAPxzdhTqTk+rBqUBpjJDAYQm5 c3e174a7-ed0c-4902-a958-b5200133fd0c@killercoda.com
+
+
+Step 3: Webhook
+
+You need to create a new Webhook in the settings of your Github repository.
+Payload Url:
+https://webhook.killercoda.com/webhook/github/c3e174a7-ed0c-4902-a958-b5200133fd0c
+Content type:
+application/json
+Secret:
+8ea09e4939f42664ba92b2de323cb6fa
+
+
+logo
+
+About
+
+Explore
+
+Kubernetes Security
